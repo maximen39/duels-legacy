@@ -1,0 +1,2 @@
+Module-Class: net.luckyverse.duels.Duels
+Preloader-Class: net.luckyverse.duels.preloader.DuelsPreloader
